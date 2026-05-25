@@ -156,6 +156,8 @@ The project includes an editorial-style slide deck prepared for AtliQ Media lead
 
 # 📊 Power BI Dashboard
 Check Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMWNhMTFkMmItZjliNC00MGYzLTlhY2MtNjllZTlhZmVlYmE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
 📌 Dashboard File Included in Repository
 
 ### Dashboard Highlights:
