@@ -235,3 +235,15 @@ This project is created purely for educational and analytical purposes as part o
  ┃ ┗ Stakeholder_Deck.ppt
  ┣ README.md
  ┗ requirements.txt
+
+# 👨‍💻 Author
+
+## Dhiraj Mahato
+Aspiring Data Analyst | Power BI Developer | Data Storyteller
+
+🔗 LinkedIn: https://www.linkedin.com/in/analystdhiraj/  
+📧 Email: analysiswithdhiraj@gmail.com
+🌐 Portoflio: https://codebasics.io/portfolio/Dhiraj-Mahato
+
+---
+
