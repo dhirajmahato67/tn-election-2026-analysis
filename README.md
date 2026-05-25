@@ -226,7 +226,7 @@ This project is created purely for educational and analytical purposes as part o
 Aspiring Data Analyst | Power BI Developer | Data Storyteller
 
 🔗 LinkedIn: https://www.linkedin.com/in/analystdhiraj/  
-📧 Email: analysiswithdhiraj@gmail.com
+📧 Email: analysiswithdhiraj@gmail.com 
 🌐 Portoflio: https://codebasics.io/portfolio/Dhiraj-Mahato
 
 # 📁 Repository Structure
