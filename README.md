@@ -136,7 +136,7 @@ A complete 5–7 minute storytelling walkthrough explaining:
 - and editorial recommendations.
 
 📺 **Watch Video Here:**  
-[Paste Your YouTube Link Here]
+https://youtu.be/HczJVqbt5LA
 
 ---
 
@@ -155,6 +155,7 @@ The project includes an editorial-style slide deck prepared for AtliQ Media lead
 ---
 
 # 📊 Power BI Dashboard
+Check Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMWNhMTFkMmItZjliNC00MGYzLTlhY2MtNjllZTlhZmVlYmE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 📌 Dashboard File Included in Repository
 
 ### Dashboard Highlights:
@@ -229,10 +230,6 @@ This project is created purely for educational and analytical purposes as part o
  ┣ 📂 Dashboard
  ┃ ┗ TamilNaduElectionDashboard.pbix
  ┣ 📂 Presentation
- ┃ ┗ Stakeholder_Deck.pdf
- ┣ 📂 Notebook
- ┃ ┗ analysis.ipynb
- ┣ 📂 Images
- ┃ ┗ dashboard_screenshots
+ ┃ ┗ Stakeholder_Deck.ppt
  ┣ README.md
  ┗ requirements.txt
